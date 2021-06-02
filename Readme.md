@@ -7,9 +7,8 @@ El contenido de esta rama es respecto a la matería Laboratorio 3 de la _Univers
 
 ## Colaboradores
 
-- `De Aragon Manuel` 
+- `De Aragon Manuel` https://github.com/manudearagon
 - `Marquez Federico` https://github.com/fedemarquez0/
-- `Moyano Lucas Manuel` 
-
+- `Moyano Lucas Manuel` https://github.com/SecondPort
 
 
