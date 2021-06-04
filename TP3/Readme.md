@@ -44,7 +44,8 @@ c.save()
 
 ## Sobre nuestro proyecto
 Ahora que ya entendemos el funcionamiento básico de la librería, podemos trabajar con nuestro proyecto.
-Para ello ejecutar el archivo *tp3.py*
+
+Para ello ejecutar el archivo principal *tp3.py*
 
 ## Bibliografía
 
