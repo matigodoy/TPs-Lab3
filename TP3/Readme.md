@@ -5,6 +5,7 @@
 
 ReportLab es un toolkit de código abierto para crear documentos PDF desde Python. Se trata de una librería muy extensa y con muchas funcionalidades, desde pequeños textos y figuras geométricas a grandes gráficos e ilustraciones, todo ello puede ser incluido dentro de un PDF. 
 
+
 ## Instalación 
 
 Reportlab requiere [Libreria Reportlab & Pillow](https://pypi.org/project/reportlab/) para funcionar.
@@ -40,6 +41,10 @@ Por último, vamos a guardar todos los cambios realizados.
 ```sh
 c.save()
 ```
+
+## Sobre nuestro proyecto
+Ahora que ya entendemos el funcionamiento básico de la librería, podemos trabajar con nuestro proyecto.
+Para ello ejecutar el archivo *tp3.py*
 
 ## Bibliografía
 
