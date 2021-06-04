@@ -45,7 +45,7 @@ c.save()
 ## Sobre nuestro proyecto
 Ahora que ya entendemos el funcionamiento básico de la librería, podemos trabajar con nuestro proyecto.
 
-Para ello ejecutar el archivo principal *tp3.py*
+Para ello ejecutar el archivo principal *tp3.py* el cual traerá los datos desde notas.txt.
 
 ## Bibliografía
 
