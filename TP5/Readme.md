@@ -35,14 +35,14 @@ git clone https://github.com/matigodoy/TPs-Lab3.git
 
 ## ¿Como funciona internamente?
 
-A partir de la biblioteca ReportLab generamos un pdf en `mostrarDatos.py` con los datos que traeremos de nuestro segundo y tercer modulo `datosCOVID.py` y `datosPoblacion.py`, los cuales consultan a sus respectivas API mediante la dependencia *request*.
+A partir de la biblioteca ReportLab generamos un pdf en `main.py` con los datos que traeremos de nuestro segundo y tercer modulo `datosCOVID.py` y `datosPoblacion.py`, los cuales consultan a sus respectivas API mediante la dependencia *request*.
 
 >NOTA: Existe la posibilidad de modificar tanto los paises a consultar datos como la URL de a que API apuntar (en caso de que cambie la misma) mediante el archivo `settings.py` 
 
 ## ¿Como ejecutarlo?
 Para ejecutar el sistema abrir una consola sobre la ubicación donde clonó el repositorio y ejecutar el siguiente comando:
 ```sh
-py mostrarDatos.py
+py main.py
 ```
 Una vez ejecutado el archivo nos abrirá un PDF el cual contiene los datos consultados.
 
